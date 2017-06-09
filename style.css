@@ -1,0 +1,22 @@
+.hot-title {
+  transition: 1s;
+}
+
+/* yellow version */
+.warm {
+  color: yellow;
+}
+
+/* orange version */
+.hot {
+  color: orange;
+  font-style: italic;
+  font-size: 35px;
+}
+
+/* red version */
+.really-hot {
+  color: red;
+  font-style: italic;
+  font-size: 45px;
+}
